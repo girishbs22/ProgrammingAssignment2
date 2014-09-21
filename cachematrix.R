@@ -1,4 +1,5 @@
-## makeCacheMatrix creates a special object that helps
+## makeCacheMatrix and cacheSolve functions compute the inverse of square matrix
+## and store in cache for speedy retrieval
 
 ## makeCacheMatrix creates a special matrix object that can cache its inverse
 
